@@ -33,7 +33,7 @@ The main SQL script: `CRM_Matusiak_Patryk.sql`.
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/patmat511/CRM-Matusiak-Patryk.git
+git clone https://github.com/patmat511/CRM-Database.git
 cd CRM-Matusiak-Patryk
 ```
 
