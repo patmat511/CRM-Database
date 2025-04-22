@@ -6,6 +6,9 @@ A comprehensive SQL-based Customer Relationship Management (CRM) database for **
 
 ## 📋 Project Overview
 
+![image](https://github.com/user-attachments/assets/467ddce0-89da-4848-b1fe-86800b2c84ab)
+
+
 This CRM solution includes:
 
 - **Tables** – Klient, Pracownicy, Biezace_interakcje, Historia_interakcji, Uslugi, Uzytkownicy, Uprawnienia, Integracja.
